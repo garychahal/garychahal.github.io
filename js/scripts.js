@@ -318,7 +318,7 @@
 	var map;
 	function initialize_map() {
 		if ($('.map').length) {
-			var myLatLng = new google.maps.LatLng(43.750789, -79.739327);
+			var myLatLng = new google.maps.LatLng(43.747326, -79.714590);
 			var mapOptions = {
 				zoom: 15,
 				center: myLatLng,
